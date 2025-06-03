@@ -1,4 +1,4 @@
-#include<iostream.h>
+#include<iostream>
 using namespace std;
 class abc
 {
@@ -19,7 +19,7 @@ void put()
 {
 cout<<si;
 }
-}
+};
 main()
 {
 abc a1,a2,a3;
